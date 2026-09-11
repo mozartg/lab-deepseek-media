@@ -1,3 +1,6 @@
+> Role is defined by .portfolio/repo-manifest.json. Name is descriptive only.
+> Machine-readable state is the single source of truth.
+
 # DeepSeek Harness Media Lab
 
 > Research-driven project incubator for DeepSeek Harness media generation & automation capabilities.  
